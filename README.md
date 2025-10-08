@@ -34,5 +34,3 @@ python calculator.py
 
 
 
-Translated with DeepL.com (free version)
-
